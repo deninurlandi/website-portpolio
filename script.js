@@ -108,3 +108,4 @@ $(window).scroll(function(){
 });
 
 // untuk materi setelahnya kita akan belajar tentang banyak hal
+//  kali ini dengan saya deni nurlandi, disni saya akan merubah sebagian pada javascript
