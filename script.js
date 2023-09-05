@@ -108,3 +108,4 @@ $(window).scroll(function(){
 });
 
 // untuk materi setelahnya kita akan belajar tentang banyak hal
+// disini saya bernama widia sya bertugas sebagai orang yang merubah dibagian register
