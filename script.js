@@ -106,3 +106,5 @@ $(window).scroll(function(){
     // akhir contact
 
 });
+
+// untuk materi setelahnya kita akan belajar tentang banyak hal

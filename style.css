@@ -119,6 +119,7 @@ section{
     -o-transform:translate(-150px,0);
 }
 
+/* ini ditampilkan dengan javascript */
 .tampilcon{
     opacity:1;
     transform:translate(0,0);
