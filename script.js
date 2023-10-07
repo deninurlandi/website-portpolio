@@ -106,7 +106,3 @@ $(window).scroll(function(){
     // akhir contact
 
 });
-
-// untuk materi setelahnya kita akan belajar tentang banyak hal
-//  kali ini dengan saya deni nurlandi, disni saya akan merubah sebagian pada javascript
-// disini saya bernama widia sya bertugas sebagai orang yang merubah dibagian register
